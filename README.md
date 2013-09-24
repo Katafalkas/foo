@@ -1,0 +1,4 @@
+foo
+===
+
+test fabric deployment
